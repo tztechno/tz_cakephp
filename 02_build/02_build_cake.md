@@ -1,4 +1,5 @@
 
+```
 % php -v
 PHP 8.3.6 (cli) (built: Apr 10 2024 14:21:20) (NTS)
 
@@ -12,3 +13,4 @@ cd my-cake-app
 bin/cake server
 
 http://localhost:8765
+```
